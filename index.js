@@ -32,4 +32,4 @@ e.pop(0)
 console.log(e)
 
 
-console.log("Tomorrow is good day, bro!")
+console.log("Tomorrow is a good day, bro!")
