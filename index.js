@@ -30,3 +30,6 @@ console.log(e)
 e.pop(1)
 e.pop(0)
 console.log(e)
+
+
+console.log("Tomorrow is good day, bro!")
