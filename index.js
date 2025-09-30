@@ -15,3 +15,7 @@ console.log(f.charAt(0), f.charAt(17));
 
 let number = 20
 console.log(number / 2)
+
+for (let a = 19; a <= 39; a++) {
+    console.log(a);
+}
