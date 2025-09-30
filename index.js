@@ -12,3 +12,6 @@ let f = "For you my Romchik"
 console.log(f.length)
 console.log("I LOVE MRBINOLA!!!");
 console.log(f.charAt(0), f.charAt(17));
+
+let number = 20
+console.log(number / 2)
