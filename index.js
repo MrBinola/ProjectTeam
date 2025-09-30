@@ -6,3 +6,4 @@ console.log(a + '_ka')
 console.log("I love IQStepIT school!");
 
 console.log("I love Roman as a teacher!")
+console.log("I LOVE MRBINOLA!!!");
