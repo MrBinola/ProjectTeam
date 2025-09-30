@@ -6,4 +6,8 @@ console.log(a + '_ka')
 console.log("I love IQStepIT school!");
 
 console.log("I love Roman as a teacher!")
+
+
+let f = "For you my Romchik"
+console.log(f.length)
 console.log("I LOVE MRBINOLA!!!");
