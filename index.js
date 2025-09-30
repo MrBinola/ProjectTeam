@@ -19,3 +19,11 @@ console.log(number / 2)
 for (let a = 19; a <= 39; a++) {
     console.log(a);
 }
+
+let e = [1,2,3,4,5]
+e.push(6)
+e.push(7)
+e.push(8)
+e.push(9)
+
+console.log(e)
