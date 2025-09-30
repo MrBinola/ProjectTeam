@@ -11,3 +11,4 @@ console.log("I love Roman as a teacher!")
 let f = "For you my Romchik"
 console.log(f.length)
 console.log("I LOVE MRBINOLA!!!");
+console.log(f.charAt(0), f.charAt(17));
