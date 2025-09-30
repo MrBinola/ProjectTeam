@@ -27,3 +27,6 @@ e.push(8)
 e.push(9)
 
 console.log(e)
+e.pop(1)
+e.pop(0)
+console.log(e)
