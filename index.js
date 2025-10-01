@@ -40,3 +40,8 @@ console.log(o.charAt(0), o.charAt(5));
 for (let i = 0; i < o.length; i++) {
     console.log(o.charAt(i));
 }
+
+
+let gold = 888
+
+console.log(gold / 2)
