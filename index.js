@@ -33,3 +33,6 @@ console.log(e)
 
 
 console.log("Tomorrow is a good day, bro!")
+
+let o = "people"
+console.log(o.charAt(0),o.charAt(5))
