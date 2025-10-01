@@ -34,5 +34,9 @@ console.log(e)
 
 console.log("Tomorrow is a good day, bro!")
 
-let o = "people"
-console.log(o.charAt(0),o.charAt(5))
+let o = "people";
+console.log(o.charAt(0), o.charAt(5));
+
+for (let i = 0; i < o.length; i++) {
+    console.log(o.charAt(i));
+}
