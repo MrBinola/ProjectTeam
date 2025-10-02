@@ -60,3 +60,6 @@ b.push(9)
 b.push(10)
 
 console.log(b)
+b.pop();
+b.pop();
+console.log(b)
