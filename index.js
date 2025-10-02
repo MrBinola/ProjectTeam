@@ -51,3 +51,12 @@ let numbers = 50
 for (let i = numbers; i >= 40; i--) {
     console.log(i)
 }
+
+let b = [1,2,3,4,5,6]
+
+b.push(7)
+b.push(8)
+b.push(9)
+b.push(10)
+
+console.log(b)
