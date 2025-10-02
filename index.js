@@ -45,3 +45,9 @@ for (let i = 0; i < o.length; i++) {
 let gold = 888
 
 console.log(gold / 2)
+
+let numbers = 50
+
+for (let i = numbers; i >= 40; i--) {
+    console.log(i)
+}
