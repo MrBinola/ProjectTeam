@@ -63,3 +63,7 @@ console.log(b)
 b.pop();
 b.pop();
 console.log(b)
+
+let n = 25
+
+console.log(n + 25)
