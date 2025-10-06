@@ -67,3 +67,5 @@ console.log(b)
 let n = 25
 
 console.log(n + 25)
+
+console.log(7)
