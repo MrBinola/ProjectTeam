@@ -69,3 +69,7 @@ let n = 25
 console.log(n + 25)
 
 console.log(7)
+
+let d = 100
+
+console.log(d * 100)
