@@ -75,3 +75,7 @@ let d = 100
 console.log(d * 100)
 
 console.log(77)
+
+let j = "Master"
+
+console.log(j)
